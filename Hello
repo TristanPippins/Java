@@ -1,0 +1,9 @@
+//name this file "Hello.java"
+//$javac Hello.java to compile
+//$java Hello
+class Whadafukup {
+	public static void main (String args[]){
+		System.out.println(" Whadafukup World");
+		
+	}
+{
